@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "16989891533",
+    "firebase_url": "https://resumebuilderweb-4ddfa-default-rtdb.firebaseio.com",
+    "project_id": "resumebuilderweb-4ddfa",
+    "storage_bucket": "resumebuilderweb-4ddfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16989891533:android:d39a1d704f1b8e26a5b284",
+        "android_client_info": {
+          "package_name": "com.ritwik.builderResume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7RIKum6sFIkMWTs7YgeTlYSNDhURWVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16989891533-gngn0nf0p89cehq2716fkiv7ehu1cqhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
